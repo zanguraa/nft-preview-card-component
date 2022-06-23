@@ -1,4 +1,4 @@
-#  - NFT preview card component [https://zanguraa.github.io/nft-preview-card-component/]
+ NFT preview card component [https://zanguraa.github.io/nft-preview-card-component/]
 
 what I used for this project:
 
